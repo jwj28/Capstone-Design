@@ -1,0 +1,72 @@
+SEOUL LANDING — 추가 여행지 사진 출처 / Photo credits
+
+추가한 사진 8장의 출처와 이용 조건을 기록함.
+Wikimedia Commons의 가로 1,280px 미리보기 파일을 사용함.
+사진 파일의 색상과 내용은 수정하지 않음. 화면 비율에 따라 CSS로 일부 영역이 잘려 표시될 수 있음.
+Each image retains the license listed below, including the resized/display-cropped version.
+Original images supplied with the website are outside the scope of this credit list.
+
+첫 화면 (경복궁 경회루 야경) — 기존 일러스트를 대체
+File: assets/seoul-hero.jpg
+Title: Gyeonghoeru Pavilion in Gyeongbokgung Palace.jpg
+Author: Hhk1201
+Source: https://commons.wikimedia.org/wiki/File:Gyeonghoeru_Pavilion_in_Gyeongbokgung_Palace.jpg
+License: CC BY-SA 4.0
+License URL: https://creativecommons.org/licenses/by-sa/4.0/
+Changes: 원본 3,072×2,048px를 가로 2,400px로 축소해 저장함. 색상·내용은 수정하지 않음. 화면에서는 CSS로 어두운 그라데이션을 겹쳐 표시함.
+
+성북동 길상사
+File: assets/trips/seongbuk-1.jpg
+Title: 길상사(吉祥寺, Gilsangsa Temple) 091122 1.jpg
+Author: S h y numis
+Source: https://commons.wikimedia.org/wiki/File:%EA%B8%B8%EC%83%81%EC%82%AC%28%E5%90%89%E7%A5%A5%E5%AF%BA%2C_Gilsangsa_Temple%29_091122_1.jpg
+License: CC BY-SA 4.0
+License URL: https://creativecommons.org/licenses/by-sa/4.0/
+
+원주 강원감영
+File: assets/trips/wonju-1.jpg
+Title: Gangwon Gamyeong, in Wonju, Gangwon Province, South Korea.jpg
+Author: Cultural Heritage Administration (문화재청)
+Source: https://commons.wikimedia.org/wiki/File:Gangwon_Gamyeong%2C_in_Wonju%2C_Gangwon_Province%2C_South_Korea.jpg
+License: KOGL Type 1
+License URL: https://www.kogl.or.kr/info/licenseType1.do
+
+아산 외암민속마을
+File: assets/trips/asan-1.jpg
+Title: Oeam Folk Village 2010.JPG
+Author: Jjw
+Source: https://commons.wikimedia.org/wiki/File:Oeam_Folk_Village_2010.JPG
+License: CC BY-SA 3.0
+License URL: https://creativecommons.org/licenses/by-sa/3.0/
+
+충주 탄금호
+File: assets/trips/chungju-1.jpg
+Title: Tangeumlake.jpg
+Author: Kimhs5400(블루시티)
+Source: https://commons.wikimedia.org/wiki/File:Tangeumlake.jpg
+License: CC BY-SA 4.0
+License URL: https://creativecommons.org/licenses/by-sa/4.0/
+
+제천 의림지
+File: assets/trips/jecheon-1.jpg
+Title: 봄철 우륵호의 전경.jpg
+Author: 류금열
+Source: https://commons.wikimedia.org/wiki/File:%EB%B4%84%EC%B2%A0_%EC%9A%B0%EB%A5%B5%ED%98%B8%EC%9D%98_%EC%A0%84%EA%B2%BD.jpg
+License: CC0 1.0
+License URL: https://creativecommons.org/publicdomain/zero/1.0/
+
+공주 공산성
+File: assets/trips/gongbu-1.jpg
+Title: 공주공산성-Gongsanseong-Fortress-1.jpg
+Author: Korearoadtour
+Source: https://commons.wikimedia.org/wiki/File:%EA%B3%B5%EC%A3%BC%EA%B3%B5%EC%82%B0%EC%84%B1-Gongsanseong-Fortress-1.jpg
+License: CC BY-SA 4.0
+License URL: https://creativecommons.org/licenses/by-sa/4.0/
+
+강릉 경포해변
+File: assets/trips/gangneung-1.jpg
+Title: Gyeongpo Beach 1.jpg
+Author: Christophe95
+Source: https://commons.wikimedia.org/wiki/File:Gyeongpo_Beach_1.jpg
+License: CC BY-SA 4.0
+License URL: https://creativecommons.org/licenses/by-sa/4.0/
